@@ -1,0 +1,33 @@
+{
+  "empresa": "Livraria Página Viva",
+  "tipo_negocio": "Livraria online",
+  "moeda": "BRL",
+  "periodo": {
+    "descricao": "novembro de 2026",
+    "data_inicio": "2026-11-01",
+    "data_fim": "2026-11-30"
+  },
+  "meta_faturamento": 1500.00,
+  "orcamento_despesas": 900.00,
+  "despesas_detalhadas": {
+    "frete_e_logistica": 180.00,
+    "marketing_e_anuncios": 220.00,
+    "embalagens": 120.00,
+    "taxas_de_plataforma": 150.00,
+    "equipe_temporaria": 230.00
+  },
+  "categorias": [
+    {"nome": "Literatura", "produtos": ["Dom Casmurro", "1984", "O Alquimista"]},
+    {"nome": "Infantojuvenil", "produtos": ["O Pequeno Príncipe", "Harry Potter e a Pedra Filosofal"]},
+    {"nome": "Não ficção", "produtos": ["Sapiens", "Hábitos Atômicos"]},
+    {"nome": "Tecnologia", "produtos": ["Clean Code"]}
+  ],
+  "unidades": [
+    {"id": "site_proprio", "nome": "Loja virtual própria", "canal": "Site"},
+    {"id": "marketplace", "nome": "Marketplace parceiro", "canal": "Marketplace"}
+  ],
+  "alertas": {
+    "percentual_meta_minimo": 0.8,
+    "percentual_despesas_maximo": 0.9
+  }
+}
