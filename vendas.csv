@@ -1,0 +1,9 @@
+id_venda,data,produto,quantidade,preço
+1,2026-11-02,Dom Casmurro - Machado de Assis,2,39.90
+2,2026-11-05,O Pequeno Príncipe - Antoine de Saint-Exupéry,1,29.90
+3,2026-11-08,1984 - George Orwell,3,44.50
+4,2026-11-11,Sapiens - Yuval Noah Harari,1,79.90
+5,2026-11-14,O Alquimista - Paulo Coelho,4,34.90
+6,2026-11-16,Clean Code - Robert C. Martin,1,189.00
+7,2026-11-19,Harry Potter e a Pedra Filosofal - J.K. Rowling,2,59.90
+8,2026-11-20,Hábitos Atômicos - James Clear,1,69.90
